@@ -11,8 +11,13 @@
   <component name="ProjectId" id="1SYR0zCtSbwuWDAcmqak4QLjb4n" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/_posts" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/_posts" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -37,7 +42,8 @@
       <option name="presentableId" value="Default" />
       <updated>1571738323545</updated>
       <workItem from="1571738326817" duration="516000" />
-      <workItem from="1571740191886" duration="955000" />
+      <workItem from="1571740191886" duration="3548000" />
+      <workItem from="1571801556260" duration="278000" />
     </task>
     <servers />
   </component>
