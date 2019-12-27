@@ -77,8 +77,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="141" />
-    <option name="y" value="104" />
+    <option name="x" value="100" />
+    <option name="y" value="24" />
     <option name="width" value="1680" />
     <option name="height" value="963" />
   </component>
@@ -240,12 +240,12 @@
       <option name="presentableId" value="Default" />
       <updated>1577368492540</updated>
       <workItem from="1577368494461" duration="107000" />
-      <workItem from="1577368634400" duration="6046000" />
+      <workItem from="1577368634400" duration="6311000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6153000" />
+    <option name="totallyTimeSpent" value="6418000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -257,10 +257,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="141" y="104" width="1680" height="963" extended-state="0" />
-    <editor active="true" />
+    <frame x="100" y="24" width="1680" height="963" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -270,7 +269,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295063" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295063" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -278,7 +277,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3295063" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3295063" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
